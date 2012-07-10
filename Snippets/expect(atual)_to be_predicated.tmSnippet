@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>save_and_open_page</string>
+	<string>expect($1).to be_$0</string>
 	<key>name</key>
-	<string>save_page_capybara</string>
+	<string>expect(atual).to be_predicated</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>pcap</string>
+	<string>eb</string>
 	<key>uuid</key>
-	<string>D70030D4-1561-4AE8-A68C-4A8CC69013EF</string>
+	<string>88F3BE9A-430A-4F35-884D-5BE8B5487238</string>
 </dict>
 </plist>
